@@ -122,13 +122,13 @@ The distribution is symmetric so for the right side it remains same just the cha
 
 Therefore:
 
-$$P(−1.96<Z<1.96)=95\%$$
+$$P(-1.96 \lt Z \lt 1.96) = 95\%$$
 
-Similarly:
+Similarly,
 
-$$P(−1.645<Z<1.645)≈90\%$$
+$$P(-1.645 \lt Z \lt 1.645) \approx 90\%$$
 
-$$P(−2.576<Z<2.576)≈99\%$$
+$$P(-2.576 \lt Z \lt 2.576) \approx 99\%$$
 
 please refer to the z-table from below:
 
@@ -136,9 +136,13 @@ please refer to the z-table from below:
 
 Did you notice something above? 
 
-$$ 90\%--> z\approx1.645 $$
-$$ 95\%--> z\approx1.96 $$
-$$ 99\%--> z\approx2.576 $$
+$$
+\begin{aligned}
+90\% &\rightarrow z \approx 1.645 \\
+95\% &\rightarrow z \approx 1.96 \\
+99\% &\rightarrow z \approx 2.576
+\end{aligned}
+$$
 
 as the confidence is increasing the value of z is also increasing, but shouldn't it be the inverse? We want to be more confident, so why are we paying for it with a larger z? 
 
