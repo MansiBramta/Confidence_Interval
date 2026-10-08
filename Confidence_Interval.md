@@ -136,11 +136,11 @@ please refer to the z-table from below:
 
 Did you notice something above? 
 
-$$90\% \rightarrow z \approx 1.645$$
+90% → z ≈ 1.645
 
-$$95\% \rightarrow z \approx 1.96$$
+95% → z ≈ 1.96
 
-$$99\% \rightarrow z \approx 2.576$$
+99% → z ≈ 2.576
 
 as the confidence is increasing the value of z is also increasing, but shouldn't it be the inverse? We want to be more confident, so why are we paying for it with a larger z? 
 
